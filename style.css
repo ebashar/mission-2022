@@ -19,8 +19,9 @@ p{
 #scroll-size{
     margin-top: 50px;
 }
-#text-position{
+.text-position{
     text-align: center;
+    margin-bottom: 70px;
 }
 .container-fexible{
     display: flex;
@@ -72,6 +73,9 @@ p{
 .developer-community-width{
     width: 70%;
 }
+#developer-text{
+    margin-right: 100px;
+}
 #comunity-size{
     margin-left: 100px;
 }
@@ -84,4 +88,12 @@ p{
 }
 #fotter-work{
     color: lightslategrey;
+}
+#link-submit-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(80, 23, 187), rgb(23, 72, 233));
+    color: white;
+    font-weight: 700px;
+    padding: 10px 30px;
+    border-radius: 5px;
 }
