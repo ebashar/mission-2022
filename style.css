@@ -6,7 +6,7 @@ h2{
     font-size: 40px;
 }
 p{
-    
+    margin-bottom: 30px;
 }
 #mission-size{
     border-left: 5px solid;
@@ -60,4 +60,24 @@ p{
 }
 #goals{
     background-color: sandybrown;
+}
+.developer-community-picture-width img{
+    width: 30%;
+    margin-left: 100px;
+}
+.developer-community-width{
+    width: 60%;
+}
+#comunity-size{
+    margin-left: 100px;
+}
+#footer-color{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#fotter-work{
+    color: lightslategrey;
 }
